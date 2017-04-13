@@ -9,6 +9,7 @@
 		Comment:		The file is not optimized as you can easily see by the implementation at the end of the file. I might release a version 1.2 with a better file handling and reducing the operations.
 	*/
 
+
 function getInterfaces($community,$router_filename,$output_filename) {
 	#OID's for SNMP Walk
 	$OID_InterfaceIndex =  '1.3.6.1.2.1.2.2.1.1';	
